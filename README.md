@@ -7,7 +7,7 @@ To get started with this project, follow these steps:
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+https://github.com/BANGBANG1999/ThePortfolyoAssignment.git
 ```
 
 ### Install Dependencies
@@ -21,7 +21,7 @@ npm install
 
 ### Set Up Environment Variables
 
-Create a new `.env` file in the base directory of the project. You can use the provided `.env.sample` file as a template. Replace the placeholder values with your actual API keys or credentials.
+Create a new `.env` file in the base directory of the project. You can use the provided `.env.sample` file as a template. Replace the placeholder values with your actual API key.
 
 ```bash
 cp .env.sample .env
@@ -37,15 +37,5 @@ Once you've installed the dependencies and set up your environment variables, yo
 npm run dev
 ```
 
-This command will start the server and make your project available at [localhost:3000](http://localhost:3000).
+This command will start the server and make your project available at (http://localhost:5173).
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature-name`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Push to the branch (`git push origin feature/your-feature-name`)
-6. Create a new Pull Request
